@@ -50,56 +50,79 @@
 
                         echo "<h2 class='text-primary'>Till My Heartaches End</h2>";
                         echo "<p class='lead '>KZ Tandingan</p>";
-                        echo "<br/>";    
+                        echo "<br/>";   
 
-                        echo "<p>I recall when you said that you would never leave me</p>";
-                        echo "<p>You told me more, so much more like when the time you whispered in my ear</p>";
-                        echo "<p>There was heaven in my heart</p>";
-                        echo "<p>I remember when you said that you'd be here forever</p>";
+
+                       echo "<p>[INTRO]</p>";
+                       echo "<p> E A B/D# Fm C#m7 F#sus F# </p>";
+                       echo"<p> F#m7 E/G# A Bsus4 </p>";
+                       echo "<br/>";
+
+                       echo "<p> [ Verse 1 ] </p>";
+
+                        echo "<p> [E] I recall when you [Amaj7]  said that you would [D7] never leave me</p>";
+                        echo "<p> [E] You told me more, so much [Bm7] more like when the [ E7sus4 ] time you  [E/G#] whispered in my [Amaj7] ear</p>";
+                        echo "<p> [G#m7] There was heaven in my [C#m7] heart</p>";
+                        echo"<p>[F#m7] I remember [E] when you said that [Bsus4] you'd be here [B] forever</p>";
+                        echo "<p> [E]Then you left without [Amaj7] even saying [D7] that you're leaving</p>";
+                        echo "<p>[E]I was hurt and it [Bm7] really won't be [Esus4] easy [E/G#] to [Amaj7] forget yesterday</p>";
+                        echo "<p>[G#m7] And I pray that you would [C#m7]stay</p>";
+                        echo "<p>[F#m7] But then you're gone and, oh, so [D] far away</p>";
                         echo "<br/>";
 
-                        echo "<p>Then you left without even saying that you're leaving</p>";
-                        echo "<p>I was hurt and it really won't be easy to forget yesterday</p>";
-                        echo "<p>And I pray that you would stay</p>";
-                        echo "<p>But then you're gone and, oh, so far away</p>";
-                        echo "<br/>";
 
-                        echo "<p>I was afraid this time would come</p>";
-                        echo "<p>I wasn't prepared to face this kind of hurtin' from within</p>";
-                        echo "<p>I have learned to live my life beside you</p>";
-                        echo "<p>Maybe I'll just dream of you tonight</p>";
-                        echo "<p>And if into my dream you'll come and touch me once again
+
+                        echo "<p>[ CHORUS ]</p>";
+
+                        echo "<p>[E]I was afraid this [A/C#] time would come</p>";
+                        echo "<p>[B/D#] I wasn't prepared to [Ab/C] face this kind of [C#m7] hurtin' from within</p>";
+                        echo "<p>[F#m7] I have learned to live my [B7sus4] life [B/D#] beside you</p>";
+                        echo "<p>[E] Maybe I'll just dream of [A/C#] you tonight</p>";
+                        echo "<p>[B/D#] And if into my [Ab/C] dream you'll come and [C#m7]touch me once [cF#sus4 F#] again
                         </p>";
-                        echo "<p>I'll just keep on dreaming till my heartaches end</p>";
+                        echo "<p>[F#m7] I'll just keep on [E/G#] dreaming [Amaj7] till my [B7sus4] heartaches [D] end</p>";
                         echo "<br/>";
 
-                        echo "<p>And then you left without even saying that you're leaving</p>";
-                        echo "<p>I was hurt and it really won't be easy to forget yesterday</p>";
-                        echo "<p>And I pray that you would stay</p>";
-                        echo "<p>But then you're gone and, oh, so far away</p>";
+
+                           echo "<p>[ Verse 2 ]</p>";
+
+                        echo "<p>[E] then you left without [Amaj7] even saying [D7] that you're leaving</p>";
+                        echo "<p>[E] I was hurt and it [Bm7] really won't be [Esus4] easy [E/G#] to [Amaj7] forget yesterday</p>";
+                        echo "<p>[G#m7] And I pray that you would [C#m7] stay</p>";
+                        echo "<p>[F#m7] But then you're gone and,[E] oh,[B7sus4] so far[B/D#] away </p>";
                         echo "<br/>";
 
-                        echo "<p>I was afraid this time would come</p>";
-                        echo "<p>I wasn't prepared to face this kind of hurtin' from within</p>";
-                        echo "<p>I have learned to live my life beside you</p>";
-                        echo "<p>Maybe I'll just dream of you tonight</p>";
-                        echo "<p>And if into my dream you'll come and touch me once again</p>";
-                        echo "<p>I'll just keep on dreaming till my heartaches end</p>";
+                          echo "<p>[ CHORUS ]</p>";
+                               
+                        echo "<p>[E] I was afraid this [A/C#] time would come</p>";
+                        echo "<p>[B/D#] I wasn't prepared to [Ab/C] face this kind of [C#m7] hurtin' from [F#sus4] [F] within</p>";
+                        echo "<p>[F#m7] I have learned to live my [B7sus4] life beside you</p>";
+                        echo "<p>Maybe I'll just dream of [B/D#] you tonight</p>";
+                        echo "<p>[B/D#] And if into my [Ab/C] dream you'll come and [c#M7] touch me once [F#sus4] [F#] again</p>";
+                        echo "<p>[F#m7] I'll just keep on [E/G#] dreaming [Amaj7] till my [B7sus4] heartaches [C] end,  [Bb/C] [C/E] oh </p>";
                         echo "<br/>";
 
-                        echo "<p>Woh oh…</p>";
-                        echo "<p>I was afraid this time would come</p>";
-                        echo "<p>I wasn't prepared to face this kind of hurtin' from within</p>";
-                        echo "<p>I have learned to live my life beside you</p>";
-                        echo "<p>Maybe I'll just dream of you tonight</p>";
-                        echo "<p>And if into my dream you'll come and touch me once again</p>";
-                        echo "<p>I'll just keep on dreaming till my heartaches end</p>";
+                      
+                        echo "<p>[ CHORUS ]</p>";
+
+                        echo "<p>[F] I was afraid this [Bb/D] time would come</p>";
+                        echo "<p>[C/E] I wasn't prepared to [A/C#] face this kind of [Dm7] hurtin' from [Gsus4] [G] within</p>";
+                        echo "<p>[Gm7I have learned to live my [C7sus4] life beside [C/E] you</p>";
+                        echo "<p>[F] Maybe I'll just dream of [Bb/D] you tonight</p>";
+                        echo "<p>[C/E] And if into my [A/C#] dream you'll come and [Dm7] touch me [Gsus4] [G] once again</p>";
+                        echo "<p>[Gm7] I'll just keep on [F/A] dreaming [Bbmaj7] till my [C] heartaches [Dm7] end</p>";
                         echo "<br/>";
-                        echo "<p>Keep on dreaming till my heartaches end...</p>";
+                        
+                        echo "<p>[ Outro ]</p>";
+                        echo "<p>[Gm7] Keep on [F/A] [Bb] dreaming till my [C] heartaches end... [F]</p>";
 
                          ?>
 
-              
+                
+                        <p class='text-dark fw-bolder'>PLAY</p>
+                    <audio controls>
+                   <source src="audio/Till my Heartaches End.mp3" type="audio/mpeg">
+                </audio>
 
                     </div>
                 </div>

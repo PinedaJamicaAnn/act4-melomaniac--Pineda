@@ -49,74 +49,95 @@
                         echo "<h2 class='text-primary'> Passenger Seat</h2>";
                         echo "<p class='lead '> Stephen Speaks</p>";
                         echo "<br/>";  
+ 
+                        
+                         echo "<p>[Intro]</p>";
+ 
+                         echo "<p> G   Em   C   D</p>";
+                         echo " <p>G   Em   C   D   Dsus4   D   Dsus2   D  Dsus4 </p>"; 
+                         echo "<br/>";  
+ 
 
-
-                         echo "<p>I look at her and have to smile</p>";
-                         echo "<p>As we go driving for a while</p>";
-                         echo "<p>Her hair blowing in the open window of my car</p>";      
-                         echo "<p>And as we go the traffic lights</p>";
-                         echo "<p>[Another version:] And as we go I see the lights</p>";
-                         echo "<p>Watch them glimmer in her eyes</p>";
-                         echo "<p>In the darkness of the evening
+                         echo "<p>[ Verse ]</p>";
+                         echo "<p>[G] I look at her and have to smile</p>";
+                         echo "<p>[Em] As we go driving for a while</p>";
+                         echo "<p>[C] Her hair blowing in the [D] open [D] window [D] [Dus4] of my car [Dsus2] [D] [Dsus4] </p>";      
+                         echo "<p>[G] And as we go the traffic lights</p>";
+                         echo "<p>[G] And as we go I see the lights</p>";
+                         echo "<p>[Em] Watch them glimmer in her eyes</p>";
+                         echo "<p>[C] In the darkness [D] of the [D] evening [Dsus4] [D] [Dsus2] [D] [Dsus4]
                          </p>";              
                           echo "<br/>";  
 
-
-                         echo "<p>And I've got all that I need</p>";
-                         echo "<p>Right here in the passenger seat</p>";
-                         echo "<p>Oh, and I can't keep my eyes on the road</p>";
-                         echo "<p>Knowing that she's inches from me</p>";              
+                          echo "<p>[ CHORUS ]</p>";
+                         echo "<p>[G] And I've got all that I need</p>";
+                         echo "<p>[Em] Right here in the passenger seat</p>";
+                         echo "<p>[C] Oh, and I can't keep my eyes on the road</p>";
+                         echo "<p>[D] Knowing [D] that [Dsus4] [D] she's inches from me</p>";              
                            echo "<br/>"; 
 
 
-                         echo "<p>We stop to get something to drink</p>";
-                         echo "<p>My mind clouds and I can't think</p>";
-                         echo "<p>Scared to death to say i love her</p>";              
-                         echo "<p>Then a moon peeks from the clouds</p>";
-                         echo "<p>Hear my heart that beats so loud</p>";
-                         echo "<p>Try to tell her simply</p>";
+                         echo "<p>[G] We stop to get something to drink</p>";
+                         echo "<p>[Em]My mind clouds and I can't think</p>";
+                         echo "<p>[C] Scared to death [D] to say [D] i love [Dsus4] [D] [D] [Dsus2] [D] [Dsus4] her</p>";              
+                         echo "<p> [G] Then a moon peeks from the clouds</p>";
+                         echo "<p>[Em] Hear my heart that beats so loud</p>";
+                         echo "<p> [C] Try to tell her [D] simply [Dsus4] [D] [D] [Dsus2] [D] [Dsus4] he </p>";
+                         echo "<br/>"; 
+  
+                            echo "<p>[ CHORUS 2]</p>";
+
+                         echo "<p>[G] That I've got all that I need</p>";              
+                         echo "<p>[Em] Right here in the passenger seat</p>";
+                          echo "<p>[C] Oh, and I can't keep my eyes on the road</p>";
+                         echo "<p>[D] Knowing [D] that [Dsus4] she's [D] inches from  me [D] [Dsus4]</p>";
                          echo "<br/>"; 
 
-                         echo "<p>That I've got all that I need</p>";              
-                         echo "<p>Right here in the passenger seat</p>";
-                          echo "<p>Oh, and I can't keep my eyes on the road</p>";
-                         echo "<p>Knowing that she's inches from me</p>";
+                         echo "<p>[G] Oh, and I've got all that I need</p>";              
+                         echo "<p>[Em] Right here in the passenger seat</p>";
+                         echo "<p>[C] Oh, and I can't keep my eyes on the road</p>";
+                         echo "<p>[D] Knowing [D] that [Dsus4] she's [D]  inches [Dsus4] from me [D] [Dsus4]</p>";
+                         echo "<br/>";
+
+                         
+                          echo "<p>[Bridge]</p>";
+                         echo "<p>[Em] Oh, and [Dsus4] [D] [C] I know this love [D] grow</p>"; 
+                         echo "<br/>";
+
+
+                          echo "<p>[Verse]</p>"; 
+
+                        
+                         echo "<p>[G] Oh, I've got all that I need</p>";              
+                         echo "<p>[Em]Right here in the passenger seat</p>";
+                         echo "<p>[C] Oh, and I can't keep my eyes on the road</p>";              
+                         echo "<p>[D] Knowing [D] that [Dsus4] she's [Dsus2] inches from [D] me [Dsus4</p>";
                          echo "<br/>"; 
 
-                         echo "<p>Oh, and I've got all that I need</p>";              
-                         echo "<p>Right here in the passenger seat</p>";
-                         echo "<p>Oh, and I can't keep my eyes on the road</p>";
-                         echo "<p>Knowing that she's inches from me</p>";
+                         echo "<p>[CHORUS]</p>"; 
+
+                         echo "<p>[G]And I've got all that I need</p>";              
+                         echo "<p> [Em] Right here in the passenger seat</p>";
+                         echo "<p>[C] Oh, and I can't keep my eyes on the road</p>";              
+                         echo "<p>[D] Knowing [D] that [Dsus4] she's [D] inches [Dsus2] [D] [Dsus4] from me</p>";
                          echo "<br/>"; 
 
-                         echo "<p>Oh, and I know this love grow</p>";              
-                         echo "<p>[Another version:] Oh, and I know that this love grow</p>";
-                         echo "<br/>"; 
-
-                         echo "<p>Oh, I've got all that I need</p>";              
-                         echo "<p>Right here in the passenger seat</p>";
-                         echo "<p>Oh, and I can't keep my eyes on the road</p>";              
-                         echo "<p>Knowing that she's inches from me</p>";
-                         echo "<br/>"; 
-
-
-                         echo "<p>And I've got all that I need</p>";              
-                         echo "<p>Right here in the passenger seat</p>";
-                         echo "<p>Oh, and I can't keep my eyes on the road</p>";              
-                         echo "<p>Knowing that she's inches from me</p>";
-                         echo "<br/>"; 
-
-                         echo "<p>And I've got all that I need</p>";              
-                         echo "<p>Right here in the passenger seat</p>";
-                         echo "<p>Oh, and I can't keep my eyes on the road</p>";
-                         echo "<p>Knowing that she's inches from me</p>";   
+                         echo "<p>[G] And I've got all that I need</p>";              
+                         echo "<p>[Em] Right here in the passenger seat</p>";
+                         echo "<p>[C] Oh, and I can't keep my eyes on the road</p>";
+                          echo "<p>[D] Knowing [D] that [Dsus4] she's [D] inches [Dsus2] [D] [Dsus4] from me</p>";
                          echo "<br/>"; 
  
-                         echo "<p>And I've got all that I need</p>";
-                         echo "<p>Right here in the passenger seat</p>";              
+                         echo "<p> [G] And I've got all that I need</p>";
+                         echo "<p>[Em] Right here in the passenger seat</p>";              
                      
 
                      ?>
+
+                        <p class='text-dark fw-bolder'>PLAY</p>
+                    <audio controls>
+                   <source src="audio/Passenger Seat.mp3" type="audio/mpeg">
+                </audio>
 
                     </div>
                 </div>

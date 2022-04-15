@@ -47,65 +47,92 @@
                              <img src="image/icon01.jpg" width="60" height="60">
 
    <?php
+                                
+                                echo "<h2 class='text-primary'> Crazier</h2>";
+                                echo "<p class='lead '> Tylor Swift</p>";
+                      
+                                echo"<p>  [Intro]</p>";
+                                echo"<p> [D]  [A]  [Bm]   [G]  [(G)]    </p>";
+                          
 
 
-                        echo "<h2 class='text-primary'> Crazier</h2>";
-                        echo "<p class='lead '> Tylor Swift</p>";
-                        echo "<br/>";  
+                                echo"<p> [Verse1] </p>";
 
-                        echo "<p>I'd never gone with the wind </p>";
-                        echo "<p> Just let it flow</p>";
-                        echo "<p>Let it take me where it wants to go </p>";
-                        echo "<p>'Til you open the door </p>";
-                        echo "<p> There's so much more</p>";
-                        echo "<p>I'd never seen it before </p>";
-                        echo "<br/>";  
-
-                        echo "<p> I was trying to fly but I couldn't find wings</p>";
-                        echo "<p> But you came along and you changed everything</p>";
-                        echo "<br/>";  
-
-                        echo "<p>You lift my feet off the ground </p>";
-                        echo "<p>You spin me around </p>";
-                        echo "<p> You make me crazier, crazier</p>";
-                        echo "<p> Feels like I'm falling and I am lost in your eyes</p>";
-                        echo "<p> You make me crazier, crazier, crazier</p>";
-                        echo "<br/>";  
-
-                        echo "<p> I've watched from a distance</p>";
-                        echo "<p> As you made life your own</p>";
-                        echo "<p> Every sky was your own kind of blue</p>";
-                        echo "<p> And I wanted to know</p>";
-                        echo "<p> How that would feel</p>";
-                        echo "<p>And you made it so real </p>";
-                        echo "<br/>";  
+                                echo"<p>  [D]I'd never gone with the [A]wind</p>";
+                                echo"<p> Just let it [Em]flow </p>";
+                                echo"<p>  Let it [G]take me [(A)]where it wants to [D]go</p>";
+                                echo"<p> Till you open the [A]door there's so much [Em]more </p>";
+                                echo"<p> I've never [G]seen it before </p>";
+                                echo"<p> I was [A]trying to [Bm]fly but I [G]couldn't find wings  </p>";
+                                echo"<p>  But [A]you came [Bm]along and you [G]changed everything</p>";
+                                echo "<br/>";  
 
 
-                        echo "<p> You showed me something that I couldn't see</p>";
-                        echo "<p> You opened my eyes and you made me believe</p>";
-                        echo "<br/>";  
+                                echo"<p>  [Chorus]</p>";
 
-                        echo "<p> You lift my feet off the ground</p>";
-                        echo "<p> You spin me around</p>";
-                        echo "<p> You make me crazier, crazier</p>";
-                        echo "<p> Feels like I'm falling and I am lost in your eyes</p>";
-                        echo "<p>You make me crazier, crazier, crazier </p>";
-                        echo "<br/>";  
+                                echo"<p> [D]You lift my feet off the [A]ground </p>";
+                                echo"<p> You spin me [Bm]around </p>";      
+                                echo"<p> You make me [G]crazier, crazier </p>";
+                                echo"<p>  [D]Feels like I'm falling and [A]I</p>";
+                                echo"<p> I'm lost in your [Bm]eyes</p>";
+                                echo"<p> You make me [G]crazier, [(G)]crazier, crazier </p>";
+                                echo "<br/>";  
 
-                        echo "<p> Baby, you showed me what living is for</p>";
-                        echo "<p> I don't wanna hide anymore</p>";
-                        echo "<br/>"; 
 
-                        echo "<p> You lift my feet off the ground</p>";
-                        echo "<p> You spin me around</p>";
-                        echo "<p> You make me crazier, crazier</p>";
-                        echo "<p>Feels like I'm fallin' and I am lost in your eyes </p>";
-                        echo "<p> You make me crazier, crazier, crazier</p>";
-                        echo "<p>Crazier, crazier. </p>";
+
+                                echo"<p> [Verse] </p>";
+
+                                echo"<p> I [D]watched from a distance as [A]you </p>";
+                                echo"<p>  Made life your [Em]own</p>";
+                                echo"<p> Every [G]sky was [(A)]your own kind of [D]blue </p>";
+                                echo"<p>  And I wanted to [A]know how that would [Em]feel</p>";
+                                echo"<p> And you [G]made it so real </p>";
+                                echo"<p>[A]You showed me [Bm]something that [G]I couldn't see  </p>";    
+                                echo"<p> [A]You opened my [Bm]eyes and you [G]made me believe </p>";
+                                echo "<br/>";  
+ 
+
+                                echo"<p> [Chorus] </p>";
+
+                                echo"<p> [D]You lift my feet off the [A]ground</p>";
+                                echo"<p> You spin me [Bm]around </p>";
+                                echo"<p>  You make me [G]crazier, crazier</p>";
+                                echo"<p> [D]Feels like I'm falling and [A]I </p>";
+                                echo"<p>  I'm lost in your [Bm]eyes</p>";
+                                echo"<p> You make me [G]crazier, [(G)]crazier, crazier  </p>";
+                                echo "<br/>";
+
+
+                                echo"<p> [Interlude] </p>";
+                                echo"<p> [D]  [A]  [G]  [(G)] </p>";
+                                echo "<br/>";  
+
+
+
+                                echo"<p>[Bridge]</p>";
+
+                                echo"<p> [A]Baby you [Bm]showed me what [G]living is for</p>";
+                                echo"<p> I [A]don't want to [Bm]hide [G]anymore</p>";
+                                echo "<br/>";  
+
+
+                                echo"<p> [Chorus]</p>";
+
+                                echo"<p> [D]You lift my feet off the [A]ground </p>"; 
+                                echo"<p> You spin me [Bm]around </p>";
+                                echo"<p> You make me [G]crazier, crazier </p>";
+                                echo"<p> [D]Feels like I'm falling and [A]I</p>";
+                                echo"<p>I'm lost in your [Bm]eyes </p>";
+                                echo"<p> You make me [G]crazier, crazier, crazier</p>";
+                                echo"<p> [G]Crazier, crazier</p>";
+                               echo "<br/>"; 
                         
                         ?>
-
-
+                         
+                        <p class='text-dark fw-bolder'>PLAY</p>
+                    <audio controls>
+                   <source src="audio/Crazier.mp3" type="audio/mpeg">
+                </audio>
 
                     </div>
                 </div>

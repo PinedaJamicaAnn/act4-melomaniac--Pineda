@@ -48,82 +48,111 @@
                         echo "<h2 class='text-primary'>PANO</h2>";
                         echo "<p class='lead '>Zack Tabudlo</p>";
                        echo "<br/>";
+   
 
 
-                        echo "<p> Oh giliw naririnig mo ba </p>";
-                        echo "<p>Ang yong sarili</p>";
-                        echo "<p> Nakakabaliw lumalabas</p>";
-                        echo "<p> Sa yong bibig</p>";
+                            echo "<p> [Verse 1] </p>";
+
+
+                        echo "<p> [C] Oh giliw naririnig mo ba </p>";
+                        echo "<p>[Cmaj7] Ang yong sarili</p>";
+                        echo "<p> [C7] Nakakabaliw lumalabas</p>";
+                        echo "<p> [Dm7] Sa yong bibig</p>";
                         echo "<br/>";
 
-                        echo "<p> Alam kong uto uto ako</p>";
-                        echo "<p> Alam ko na marupok</p>";
-                        echo "<p> Tao lang din naman</p>";
-                        echo "<p> Kasi ako</p>";
+                        echo "<p> [C] Alam kong uto uto ako</p>";
+                        echo "<p> [Cmaj7] Alam ko na marupok</p>";
+                        echo "<p> [C7] Tao lang din naman</p>";
+                        echo "<p> [Dm7] Kasi ako</p>";
+                        echo "<br/>";
+                      
+
+                        echo"<p> [Pre-Chorus] </p>";
+
+                        echo "<p>[Am7] May nararamdaman din [G]ako</p>";
+                        echo "<p> [F] Di kasi manhid na tulad mo</p>";
+                        echo "<p> [AmF] Alam kong sanay bumitaw</p>";
+                        echo "<p> [G] Ang isang tulad mo</p>";
+                        echo "<p> [F] Lalayo na [F7] ba ako</p>";
+                        echo "<br/>";
+                        
+                        echo"<P> [Chorus] </P>";
+
+                        echo "<p> [C] Pano naman ako</p>";
+                        echo "<p> [Cmaj7] Nahulog na sayo</p>";
+                        echo "<p> [C7] Binitawan mo lang ba talaga  [Dm7] ako</p>";
                         echo "<br/>";
 
-                        echo "<p>May nararamdaman din ako</p>";
-                        echo "<p> Di kasi manhid na tulad mo</p>";
-                        echo "<p> Alam kong sanay bumitaw</p>";
-                        echo "<p> Ang isang tulad mo</p>";
-                        echo "<p> Lalayo na ba ako</p>";
+                        echo "<p>[C]  Pano naman ako</p>";
+                        echo "<p> [Cmaj7] Naghintay ng matagal sayo</p>";
+                        echo "<p>[C7] Wala lang ba talaga lahat ng yon[Dm7] sayo</p>";
+                        echo "<p> [ C  Cmaj7 C7 Dm7] Ano na bang gagawin ko </p>";
+                        echo "<br/>";
+                        
+                        echo "<P>  [Verse 2] </p>";
+
+                        echo "<p> [C] Sinasadya mo ba ang lahat</p>";
+                        echo "<p> [Cmaj7] O trip mo lang ba ako saktan</p>";
+                        echo "<p> [C7] Pagtapos kong ibigay balikat ko</p>";
+                        echo "<p> [Dm7] Pag ika'y umiiyak</p>";
                         echo "<br/>";
 
-                        echo "<p> Pano naman ako</p>";
-                        echo "<p> Nahulog na sayo</p>";
-                        echo "<p> Binitawan mo lang ba talaga ako</p>";
-                        echo "<br/>";
-
-                        echo "<p> Pano naman ako</p>";
-                        echo "<p> Naghintay ng matagal sayo</p>";
-                        echo "<p>Wala lang ba talaga lahat ng yon sayo</p>";
-                        echo "<p>Ano na bang gagawin ko </p>";
-                        echo "<br/>";
-
-                        echo "<p> Sinasadya mo ba ang lahat</p>";
-                        echo "<p> O trip mo lang ba ako saktan</p>";
-                        echo "<p> Pagtapos kong ibigay balikat ko</p>";
-                        echo "<p> Pag ika'y umiiyak</p>";
-                        echo "<br/>";
-
-                        echo "<p> Ano bang tingin mo saakin</p>";
-                        echo "<p> Isa ba akong alipin</p>";
-                        echo "<p> Wala ka bang modo</p>";
+                        echo "<p> [C] Ano bang tingin mo saakin</p>";
+                        echo "<p> [Cmaj7] Isa ba akong alipin</p>";
+                        echo "<p> [C7] Wala ka bang modo</p>";
                         echo "<p>Anong ginawa mo </p>";
-                        echo "<p>Nagtiwala naman sayo </p>";
+                        echo "<p>[Dm7] Nagtiwala naman sayo </p>";
                         echo "<br/>";
 
+                          
+                          echo"<p> [Pre- Chorus] </p>";
 
-                        echo "<p> May nararamdaman din ako</p>";
-                        echo "<p> Di kasi manhid na tulad mo</p>";
-                        echo "<p> Alam kong sanay bumitaw</p>";
-                        echo "<p> Ang isang tulad mo </p>";
-                        echo "<p> Lalayo na ba ako</p>";
+                        echo "<p> [Am7] May nararamdaman din [G]ako</p>";
+                        echo "<p>[F] Di kasi manhid na tulad mo</p>";
+                        echo "<p>[Am7] Alam kong sanay bumitaw</p>";
+                        echo "<p> [G] Ang isang tulad mo </p>";
+                        echo "<p>[F] Lalayo na [F7] ba ako</p>";
+                        echo "<br/>";
+                         
+                        echo " <p> [Chorus] </p>";
+
+                        echo "<p>[C] Pano naman ako</p>";
+                        echo "<p> [Cmaj7] Nahulog na sayo </p>";
+                        echo "<p> [C7] Binitawan mo lang ba talaga [Dm7] ako</p>";
                         echo "<br/>";
 
-                        echo "<p> Pano naman ako</p>";
-                        echo "<p>Nahulog na sayo </p>";
-                        echo "<p> Binitawan mo lang ba talaga ako</p>";
+                        echo "<p> [C] Pano naman ako</p>";
+                        echo "<p> [Cmaj7] Naghintay ng matagal sayo</p>";
+                        echo "<p> [C7] Wala lang ba talaga lahat ng yon [Dm7] sayo </p>";
+                        echo "<p> [ C  Cmaj7 C7 Dm7] Ano na bang gagawin ko </p>";
                         echo "<br/>";
 
-                        echo "<p> Pano naman ako</p>";
-                        echo "<p> Naghintay ng matagal sayo</p>";
-                        echo "<p>Wala lang ba talaga lahat ng yon sayo </p>";
-                        echo "<p>Ano na bang gagawin ko </p>";
-                        echo "<br/>";
+                         
+                        echo"<p>   [Instrumental] </p>";
+                        echo " <p> C Cmaj7 C7 Dm </p>";
+                         echo "<br/>";
+                         
+                         echo"<p>[Outro]</p>";
 
-
-                         echo "<p> Pano naman ako</p>";
-                         echo "<p> Nahulog na sayo</p>";
-                         echo "<p> Binitawan mo lang ba talaga ako</p>";
+                         echo "<p> [C] Pano naman ako</p>";
+                         echo "<p> [Cmaj7] Nahulog na sayo</p>";
+                         echo "<p> [C7] Binitawan mo lang ba talaga [Dm] ako</p>";
                          echo "<br/>";
 
-                         echo "<p> Pano naman ako</p>";
-                         echo "<p>Naghintay ng matagal sayo </p>";
-                         echo "<p>Wala lang ba talaga lahat ng yon sayo </p>";
-                         echo "<p>Ano na bang gagawin ko </p>";
+                         echo "<p> [C] Pano naman ako</p>";
+                         echo "<p> [Cmaj7] Naghintay ng matagal sayo </p>";
+                         echo "<p> [C7] Wala lang ba talaga lahat ng yon [Dm7] sayo </p>";
+                         echo "<p> [ C  Cmaj7 C7 Dm7] Ano na bang gagawin ko </p>";
 
-                        ?>
+
+
+                       
+                         ?>
+                       
+                        <p class='text-dark fw-bolder'>PLAY</p>
+                    <audio controls>
+                   <source src="audio/Pano.mp3" type="audio/mpeg">
+                </audio>
 
 
                     </div>
@@ -132,7 +161,7 @@
         </section>
 
         <footer class="py-4 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Jamica Ann Pineda<</div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Jamica Ann Pineda</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
